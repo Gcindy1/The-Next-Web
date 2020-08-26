@@ -1,0 +1,19 @@
+.item1 { grid-area: header;
+  background-image: url(serenity.png);
+ }
+.item2 { grid-area: main; 
+background-image: url(wonder.png);
+}
+.item3 { grid-area: right;
+background-image: url(zebras.png);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      'header main'
+      'header right';
+}
+      
+   
+  

@@ -1,0 +1,36 @@
+ <div class="full-nav">
+      <div class="logo">
+        <span class="logo-text">TNW</span>
+      </div>
+      <div class="navigation">
+        <nav id="main-nav">
+          <div class="container">
+            <nav class="primary">
+              <a href="#">News</a>
+              <a href="#">Conference</a>
+              <a href="#">New York</a>
+              <a href="#">Index</a>
+              <a href="#">TQ</a>
+              <a href="#">Deals</a>
+              <a href="#">Answers</a>
+              <a href="#">TNW X</a>
+            </nav>
+            <nav class="secondary">
+              <a href="#">About</a>
+              <a href="#">Team</a>
+              <a href="#">Advertise</a>
+              <a href="#">Jobs</a>
+              <a href="#">Contact</a>
+            </nav>
+          </div>
+        </nav>
+        <nav id="sub-nav">
+          <div class="container">
+            <nav class="primary">
+              <a href="#">LATEST</a>
+              <a href="#">INSIGHTS</a>
+              <a href="#">DISTRACT</a>
+              <a href="#">FULL STACK</a>
+              <a href="#">INVESTING 2.0</a>
+            </nav>
+        
